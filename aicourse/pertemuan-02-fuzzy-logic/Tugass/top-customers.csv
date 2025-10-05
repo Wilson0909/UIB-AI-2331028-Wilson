@@ -1,0 +1,11 @@
+total_bill,tip,sex,smoker,day,time,size,tip_percent,customer_satisfaction,customer_satisfaction_category
+9.6,4.0,Female,Yes,Sun,Dinner,2,41.66666666666667,8.444444444444445,High
+7.25,5.15,Male,Yes,Sun,Dinner,2,71.0344827586207,8.154066038141977,High
+3.07,1.0,Female,Yes,Sat,Dinner,1,32.57328990228013,6.388161916152081,Medium
+48.33,9.0,Male,No,Sat,Dinner,4,18.6219739292365,5.000000000000001,Medium
+25.29,4.71,Male,No,Sun,Dinner,4,18.62396204033215,5.000000000000001,Medium
+29.93,5.07,Male,No,Sun,Dinner,4,16.93952555963916,5.000000000000001,Medium
+25.89,5.16,Male,Yes,Sat,Dinner,4,19.930475086906142,5.000000000000001,Medium
+30.4,5.6,Male,No,Sun,Dinner,4,18.421052631578945,5.0,Medium
+32.4,6.0,Male,No,Sun,Dinner,4,18.51851851851852,5.0,Medium
+25.56,4.34,Male,No,Sun,Dinner,4,16.97965571205008,5.0,Medium
